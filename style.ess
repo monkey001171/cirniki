@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(white));
+}
+header{
+    background-color: orange;
+}
+header a{
+    font-size:20px;
+    text-decoration: none;
+    border-radius: 20px;
+    padding:20px;
+}
+header img{
+    width:200px;
+}
+
+h1{
+    text-align: center;
+    font-size:40px ;
+    font-family: 'Courier New', Courier, monospace;
+}
+footer{
+    font-family: 'Courier New', Courier, monospace;
+}
